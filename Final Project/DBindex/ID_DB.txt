@@ -1,0 +1,29 @@
+Rhode Island,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,261
+New Mexico,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,117
+Virginia,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,405
+Nebraska,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,45
+Ohio,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,189
+Texas,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,333
+West Virginia,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,441
+Missouri,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,9
+New Hampshire,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,81
+North Carolina,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,153
+Oregon,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,225
+South Dakota,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,297
+Utah,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,369
+Washington,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,423
+Wisconsin,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,459
+Mississippi,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,2
+Montana,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,27
+Nevada,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,63
+New Jersey,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,99
+New York,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,135
+North Dakota,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,171
+Oklahoma,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,207
+Pennsylvania,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,243
+South Carolina,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,279
+Tennessee,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,315
+United States,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,351
+Vermont,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,387
+Wyoming,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,477
+N17-N19,NCHS_-_Leading_Causes_of_Death__United_States_7.csv,495
